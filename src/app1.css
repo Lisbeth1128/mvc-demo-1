@@ -1,0 +1,19 @@
+#app1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#app1 > .output {
+}
+
+#app1 > .actions {
+}
+
+#app1 > .actions > button {
+    width: 30px;
+    height: 25px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
